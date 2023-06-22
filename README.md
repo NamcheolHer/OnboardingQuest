@@ -8,4 +8,4 @@
 - Collaborator는 프로젝트의 공동 책임자를 의미한다.
 - Collaborator 권한이 있으면 해당 레포지토리를 삭제할 수 있다.
 
-  정 답 :
+  정 답 : Collaborator 권한이 있어도 해당 레포지토리를 삭제할 수 없다.
